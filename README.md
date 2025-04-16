@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
-<h3 align="center"> Data Scientist | Full-Stack Developer | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwanth-smarty&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<h3 align="center"> Data Analyst | AI Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 **B.Tech in Computer Science** from Mahatma Gandhi Institute of Technology  
-- 🔭 Passionate about **Data Science**  and **AI/ML**
-- 🌱 Currently exploring **NLP** and **Generative AI**  
-- 💡 Built an **AI-powered interview bot** using **speech-to-text** & **OpenAI API**  
-- 📈 Developed **end-to-end ML projects** including **text summarization** and **ML pipelines**  
-
+- 🔭 Passionate about **Data Analytics**  and **AI/ML**
+- 🌱 Currently exploring **Google Cloud Platform**  
+- 💡 Developing **GeoCropTrack**, a web-based crop analysis tool using **NDVI** and **Satellite Imagery** via **Google Earth Engine**
 ---
 
 ### 🔗 Connect With Me  
@@ -34,7 +28,6 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
 #### **🌐 Web Development**  
@@ -57,16 +50,19 @@
 
 #### **🗄️ Databases**  
 <p align="left">
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/sql/"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/sql/"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
 #### **⚒️ Tools & Cloud**  
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
+</a>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</a>
 </p>
 
 ---
@@ -78,5 +74,5 @@
 
 ---
 
-### 🔥 Fun Fact  
-💡 "The best way to predict the future is to create it!" 🚀  
+### You Know What  
+"The best way to predict the future is to create it!"  
