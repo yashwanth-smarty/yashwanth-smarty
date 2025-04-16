@@ -7,7 +7,7 @@
 - 🎓 **B.Tech in Computer Science** from Mahatma Gandhi Institute of Technology  
 - 🔭 Passionate about **Data Analytics**  and **AI/ML**
 - 🌱 Currently exploring **Google Cloud Platform**  
-- 💡 Developing **GeoCropTrack**, a web-based crop analysis tool using **NDVI** and **Satellite Imagery** via **Google Earth Engine**
+- 💡 Developing **Geo Crop Tracker**, a web-based crop analysis tool using **NDVI** and **Satellite Imagery** via **Google Earth Engine**
 ---
 
 ### 🔗 Connect With Me  
@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](https://yashwanth-smarty.github.io/My-Portfolio)  
 
 📧 **Email:** [kumaryashwanth198@gmail.com](mailto:kumaryashwanth198@gmail.com)  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1c8R8be-57StW_zuCVM_MjfRRmTL_3O9S/view?usp=drive_link)  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/1sSpmAQBkVamTIU9okrmEA--RtMgSAuwm/view?usp=drive_link)  
 
 ---
 
@@ -40,12 +40,12 @@
 </p>
 
 #### **📊 Data Analysis & AI/ML**  
-<p align="left">
-  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+<p align="left">'  
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
   <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
 </p>
 
 #### **🗄️ Databases**  
@@ -57,12 +57,13 @@
 #### **⚒️ Tools & Cloud**  
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
-</a>
   <a href="https://code.visualstudio.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
+  <a href="https://cloud.google.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
+</a>
+  
 </p>
 
 ---
